@@ -1,0 +1,5 @@
+{
+  "name": "DigitLens - Handwritten Number Identifier",
+  "description": "An AI-powered web application that identifies handwritten numbers from uploaded images using the Gemini API.",
+  "requestFramePermissions": []
+}
